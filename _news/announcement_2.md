@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: COMING SOON (Long-form template)
+date: 2025-03-03 00:00:00-0000
 inline: false
 related_posts: false
 ---
