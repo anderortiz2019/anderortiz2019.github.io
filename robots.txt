@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anderortiz2019.github.io/sitemap.xml
+Sitemap: https://anderortiz2019.com/sitemap.xml
